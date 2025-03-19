@@ -1,4 +1,5 @@
-# Supervised Machine Learning Fundamentals
+# Travel Insurance Prediction 
+#### Supervised Machine Learning Fundamentals
 
 ## Introduction
 
